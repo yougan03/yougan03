@@ -49,8 +49,6 @@ Feel free to explore and connect!
 ## 🚀 **Featured Projects**
 
 - **[Project 1](link)**: Short description of what it does and why it's cool!
-- **[Project 2](link)**: Explore how I tackled [specific problem or technology].
-- **[Project 3](link)**: A fun project on [specific application or technology].
 
 ## 🌟 **What’s Next?**
 
