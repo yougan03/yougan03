@@ -57,7 +57,7 @@ I’m constantly working on new ideas and exploring emerging technologies. Check
 ## 📞 **Let's Connect**
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300A0DC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yougan-bhalaji-9039aa233)
-- **Email:** [![Email](https://img.shields.io/badge/Email-%23D44638?style=flat&logo=gmail&logoColor=white)](youganbhalaji@gmail.com)
+- **Email:** [![Email](https://img.shields.io/badge/Email-%23D44638?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 
 Feel free to open issues, contribute, or just drop a message to say hi!
