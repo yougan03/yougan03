@@ -13,7 +13,7 @@ Feel free to explore and connect!
 
 ## 🔔 **Follow Me**
 
-- **GitHub:** [![GitHub](https://img.shields.io/badge/Follow_GitHub-%23000?style=flat&logo=github&logoColor=white)](YourGitHubProfileURL)
+- **GitHub:** [![GitHub](https://img.shields.io/badge/Follow_GitHub-%23000?style=flat&logo=github&logoColor=white)](https://github.com/yougan03)
 
 ## 🛠️ **Tools of the Trade**
 
