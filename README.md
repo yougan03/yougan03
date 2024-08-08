@@ -27,7 +27,7 @@ Feel free to explore and connect!
 ## 🖥️ **Operating Systems:**
 
 - ![Linux](https://img.shields.io/badge/-Linux-%23F0F0F0?style=flat&logo=linux&logoColor=black)
-- ![Windows](![Windows](https://img.shields.io/badge/-Windows-%23009CDE?style=flat&logo=windows&logoColor=white)
+- ![Windows](https://img.shields.io/badge/-Windows-%23009CDE?style=flat&logo=windows&logoColor=white)
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ## 🔌 **Protocols:**
