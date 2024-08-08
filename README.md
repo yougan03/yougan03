@@ -48,7 +48,8 @@ Feel free to explore and connect!
 
 ## 🚀 **Featured Projects**
 
-- **[Project 1](link)**: Short description of what it does and why it's cool!
+- **[Project 1]()**: Short description of what it does and why it's cool!
+- This project is about to build a data acquisition system using an ARM controller to gather sensor data and display the information on an LCD.
 
 ## 🌟 **What’s Next?**
 
